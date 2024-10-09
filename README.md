@@ -1,0 +1,1 @@
+Script escrito en Python para el diseño de primers, amplificación de fragmentos, ensamblado de secuencias simulando recombinación RED Lambda y cre/loxP para el armado, construcción y visualización de plásmidos. Además, de simular las condiciones de PCR para la amplificación de los fragmentos.
